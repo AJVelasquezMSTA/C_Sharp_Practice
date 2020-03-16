@@ -1,0 +1,11 @@
+C:\Users\Takai\source\repos\PrimitiveTypes\bin\Debug\netcoreapp3.1\PrimitiveTypes.exe
+C:\Users\Takai\source\repos\PrimitiveTypes\bin\Debug\netcoreapp3.1\PrimitiveTypes.deps.json
+C:\Users\Takai\source\repos\PrimitiveTypes\bin\Debug\netcoreapp3.1\PrimitiveTypes.runtimeconfig.json
+C:\Users\Takai\source\repos\PrimitiveTypes\bin\Debug\netcoreapp3.1\PrimitiveTypes.runtimeconfig.dev.json
+C:\Users\Takai\source\repos\PrimitiveTypes\bin\Debug\netcoreapp3.1\PrimitiveTypes.dll
+C:\Users\Takai\source\repos\PrimitiveTypes\bin\Debug\netcoreapp3.1\PrimitiveTypes.pdb
+C:\Users\Takai\source\repos\PrimitiveTypes\obj\Debug\netcoreapp3.1\PrimitiveTypes.csprojAssemblyReference.cache
+C:\Users\Takai\source\repos\PrimitiveTypes\obj\Debug\netcoreapp3.1\PrimitiveTypes.AssemblyInfoInputs.cache
+C:\Users\Takai\source\repos\PrimitiveTypes\obj\Debug\netcoreapp3.1\PrimitiveTypes.AssemblyInfo.cs
+C:\Users\Takai\source\repos\PrimitiveTypes\obj\Debug\netcoreapp3.1\PrimitiveTypes.dll
+C:\Users\Takai\source\repos\PrimitiveTypes\obj\Debug\netcoreapp3.1\PrimitiveTypes.pdb
