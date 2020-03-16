@@ -1,0 +1,11 @@
+D:\Visual Studio Repos\2D_Array\bin\Debug\netcoreapp3.1\2D_Array.exe
+D:\Visual Studio Repos\2D_Array\bin\Debug\netcoreapp3.1\2D_Array.deps.json
+D:\Visual Studio Repos\2D_Array\bin\Debug\netcoreapp3.1\2D_Array.runtimeconfig.json
+D:\Visual Studio Repos\2D_Array\bin\Debug\netcoreapp3.1\2D_Array.runtimeconfig.dev.json
+D:\Visual Studio Repos\2D_Array\bin\Debug\netcoreapp3.1\2D_Array.dll
+D:\Visual Studio Repos\2D_Array\bin\Debug\netcoreapp3.1\2D_Array.pdb
+D:\Visual Studio Repos\2D_Array\obj\Debug\netcoreapp3.1\2D_Array.csprojAssemblyReference.cache
+D:\Visual Studio Repos\2D_Array\obj\Debug\netcoreapp3.1\2D_Array.AssemblyInfoInputs.cache
+D:\Visual Studio Repos\2D_Array\obj\Debug\netcoreapp3.1\2D_Array.AssemblyInfo.cs
+D:\Visual Studio Repos\2D_Array\obj\Debug\netcoreapp3.1\2D_Array.dll
+D:\Visual Studio Repos\2D_Array\obj\Debug\netcoreapp3.1\2D_Array.pdb
