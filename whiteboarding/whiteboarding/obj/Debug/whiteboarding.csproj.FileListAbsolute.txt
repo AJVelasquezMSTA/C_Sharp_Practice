@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\whiteboarding\whiteboarding\bin\Debug\whiteboarding.exe.config
+C:\Users\Student\source\repos\whiteboarding\whiteboarding\bin\Debug\whiteboarding.exe
+C:\Users\Student\source\repos\whiteboarding\whiteboarding\bin\Debug\whiteboarding.pdb
+C:\Users\Student\source\repos\whiteboarding\whiteboarding\obj\Debug\whiteboarding.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\whiteboarding\whiteboarding\obj\Debug\whiteboarding.exe
+C:\Users\Student\source\repos\whiteboarding\whiteboarding\obj\Debug\whiteboarding.pdb
