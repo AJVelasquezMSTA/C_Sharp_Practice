@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio Repos\\2D_Array\\2D_Array.csproj",
+      "projectUniqueName": "D:\\GitHub Projects\\C_Sharp_Practice\\2D_Array\\2D_Array.csproj",
       "projectName": "2D_Array",
-      "projectPath": "D:\\Visual Studio Repos\\2D_Array\\2D_Array.csproj",
+      "projectPath": "D:\\GitHub Projects\\C_Sharp_Practice\\2D_Array\\2D_Array.csproj",
       "packagesPath": "C:\\Users\\Takai\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio Repos\\2D_Array\\obj\\",
+      "outputPath": "D:\\GitHub Projects\\C_Sharp_Practice\\2D_Array\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

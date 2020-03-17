@@ -21,6 +21,7 @@ namespace _2D_Array
 
         public static int CountIslands(int[,] M)
         {
+            //Finding out how to get these lengths from online
             int ROW = M.GetLength(0);
             int COL = M.GetLength(1);
             //bool array to mark visited cells. Initially, all cells are unvisited
